@@ -23,7 +23,7 @@ export default function TOS() {
 
             <p>
               Permission is granted to temporarily download one copy of the
-              materials on PSYCE's Website for personal, non-commercial
+              materials on PSYCE&apos;s Website for personal, non-commercial
               transitory viewing only. This is the grant of a license, not a
               transfer of title, and under this license you may not:
             </p>
@@ -35,16 +35,16 @@ export default function TOS() {
                 display;
               </li>
               <li>
-                attempt to reverse engineer any software contained on PSYCE's
-                Website;
+                attempt to reverse engineer any software contained on
+                PSYCE&apos;s Website;
               </li>
               <li>
                 remove any copyright or other proprietary notations from the
                 materials; or
               </li>
               <li>
-                transferring the materials to another person or "mirror" the
-                materials on any other server.
+                transferring the materials to another person or
+                &qout;mirror&qout; the materials on any other server.
               </li>
             </ul>
 
@@ -64,12 +64,13 @@ export default function TOS() {
             <h2 className={`mt-3 text-2xl font-semibold`}>3. Disclaimer</h2>
 
             <p>
-              All the materials on PSYCE's Website are provided "as is". PSYCE
-              makes no warranties, may it be expressed or implied, therefore
-              negates all other warranties. Furthermore, PSYCE does not make any
-              representations concerning the accuracy or reliability of the use
-              of the materials on its Website or otherwise relating to such
-              materials or any sites linked to this Website.
+              All the materials on PSYCE&apos;s Website are provided &qout;as
+              is&qout;. PSYCE makes no warranties, may it be expressed or
+              implied, therefore negates all other warranties. Furthermore,
+              PSYCE does not make any representations concerning the accuracy or
+              reliability of the use of the materials on its Website or
+              otherwise relating to such materials or any sites linked to this
+              Website.
             </p>
           </li>
           <li>
@@ -78,7 +79,7 @@ export default function TOS() {
             <p>
               PSYCE or its suppliers will not be hold accountable for any
               damages that will arise with the use or inability to use the
-              materials on PSYCE's Website, even if PSYCE or an authorize
+              materials on PSYCE&apos;s Website, even if PSYCE or an authorize
               representative of this Website has been notified, orally or
               written, of the possibility of such damage. Some jurisdiction does
               not allow limitations on implied warranties or limitations of
@@ -92,12 +93,12 @@ export default function TOS() {
             </h2>
 
             <p>
-              The materials appearing on PSYCE's Website may include technical,
-              typographical, or photographic errors. PSYCE will not promise that
-              any of the materials in this Website are accurate, complete, or
-              current. PSYCE may change the materials contained on its Website
-              at any time without notice. PSYCE does not make any commitment to
-              update the materials.
+              The materials appearing on PSYCE&apos;s Website may include
+              technical, typographical, or photographic errors. PSYCE will not
+              promise that any of the materials in this Website are accurate,
+              complete, or current. PSYCE may change the materials contained on
+              its Website at any time without notice. PSYCE does not make any
+              commitment to update the materials.
             </p>
           </li>
           <li>
@@ -107,7 +108,8 @@ export default function TOS() {
               PSYCE has not reviewed all of the sites linked to its Website and
               is not responsible for the contents of any such linked site. The
               presence of any link does not imply endorsement by PSYCE of the
-              site. The use of any linked website is at the user's own risk.
+              site. The use of any linked website is at the user&apos;s own
+              risk.
             </p>
           </li>
           <li>
@@ -133,8 +135,8 @@ export default function TOS() {
       </div>
 
       <p className="mt-10">
-        Any claim related to PSYCE's Website shall be governed by the laws of se
-        without regards to its conflict of law provisions.
+        Any claim related to PSYCE&apos;s Website shall be governed by the laws
+        of se without regards to its conflict of law provisions.
       </p>
     </main>
   );
