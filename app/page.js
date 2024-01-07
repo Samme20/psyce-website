@@ -34,7 +34,7 @@ export default function Home() {
             </span>
           </h2>
           <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-            PSYCE's official TOS
+            PSYCEs official TOS
           </p>
         </a>
 
@@ -51,7 +51,7 @@ export default function Home() {
             </span>
           </h2>
           <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-            PSYCE's Privacy Policy
+            PSYCEs Privacy Policy
           </p>
         </a>
       </div>
